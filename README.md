@@ -1,4 +1,4 @@
 MemApp
 ======
 
-A shape memorization game for Android.
+A toy shape memorization game for Android.
